@@ -87,3 +87,52 @@ Uvedené jsou 2–3 chovné páry, jejich předpokládané termíny a očekávan
 ---
 
 Chceš to upravit **ještě kratší**, nebo to sladit se stylem ostatních textů na web?
+style="color: #fff8dc;"
+
+<div class="container p-5">
+        <p class="fw-bold fs-1 text-center p-5 pb-0">Rezervace</p>
+        <p class="fs-4 py-2 ps-0 text-center">Rezervovat fenka můžete po telefonu nebo přes formulář</p>
+
+     <p id="formular" class="fw-bold fs-1 text-center p-5 pb-0">Formulář</p>
+    <p class="text-center p-2">Po zaslání formuláře vás kontaktujeme přes e-mail</p>
+    <div class="container">
+        <form class="row g-3">
+            <div class="col-md-6">
+                <label for="validationCustom01" class="form-label fs-5 fw-bold">Jméno</label>
+                <input type="text" class="form-control placeholder-light text-light" id="validationCustom01"
+                    placeholder="Franta">
+            </div>
+            <div class="col-md-6">
+                <label for="validationCustom02" class="form-label fs-5 fw-bold">Přijmení</label>
+                <input type="text" class="form-control placeholder-light text-light" id="validationCustom02"
+                    placeholder="Flinta">
+            </div>
+            <div class="col-md-6">
+                <label for="inputEmail4" class="form-label fs-5 fw-bold">Email</label>
+                <input type="email" class="form-control text-light placeholder-light" id="inputEmail4"
+                    placeholder="franta.flinta@email.cz">
+            </div>
+            <div class="col-md-6">
+                <label for="phone" class="form-label fs-5 fw-bold">Telefon</label>
+                <input type="tel" class="form-control text-light placeholder-light" id="phone"
+                    placeholder="+420 987 654 321">
+            </div>
+            <div class="col-md-6">
+                <label for="options" class="form-label fs-5 fw-bold">Chci</label>
+                <select class="form-select"  aria-label="Default select example">
+                    <option selected>O koho zájem? (vyberte z nabídky)</option>
+                    <option value="1">Kokoska</option>
+                    <option value="2">Z očekávaného vrhu</option>
+                    <option value="3">Konzultace s odborníkem</option>
+                </select>
+            </div>
+            <div class="col-12">
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck">
+                    <label class="form-check-label" for="gridCheck">
+                        Souhlasím se zpracováním osobních údajů.
+                    </label>
+                </div>
+            </div>
+
+https://maps.app.goo.gl/vRrEx6LEJV2S4sVs8
