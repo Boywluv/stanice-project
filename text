@@ -136,3 +136,38 @@ style="color: #fff8dc;"
             </div>
 
 https://maps.app.goo.gl/vRrEx6LEJV2S4sVs8
+
+
+
+
+
+
+  <div class="container p-5">
+        <p class="fw-bold fs-1 text-center p-5 pb-0">Aktuálně k odběru</p>
+        <div class="col-lg-4 col-md-10 col-sm-12">
+            <div class="container my-5">
+                <div class="row g-5 align-items-start">
+                    <div class="card">
+                        <img src="pics/3fen.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Kokoska</h5>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+      <div class="col-lg-5">
+                <h1 class="fw-bold mb-4">Máte zájem o Fenka nebo se chcete jen zeptat?</h1>
+
+                <div class="mb-3">
+                    Tel.: +420 123 456 788 
+                </div>
+                  <div class="mb-3">
+                    E-mail: fenek.lover@fenkov.com
+                </div>
